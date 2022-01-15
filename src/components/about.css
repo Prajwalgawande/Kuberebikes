@@ -1,0 +1,42 @@
+.about{
+   padding: 100px 130px;
+    background-color: #c6cace;
+}
+.abouthead{
+    font-size: 40px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: 500;
+}
+
+.line-a{
+    width: 180px;
+    height: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);;
+}
+.about p{
+    font-size: 1.2rem;
+    font-family: 'Mukta', sans-serif;;
+    padding: 15px 20px 30px 20px ;
+    color: rgb(95, 95, 95);
+}
+.que{
+    font-size: 30px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: 400;
+}
+.ans{
+    list-style: none;
+}
+.ans li{
+    font-size: 1.2rem;
+    font-family: 'Mukta', sans-serif;;
+    padding: 15px 25px 10px 20px ;
+color: rgb(95, 95, 95);
+}
+@media (max-width:765px) {
+    .about{
+        padding: 20px 10px ;
+    }
+}
