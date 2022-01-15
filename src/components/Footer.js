@@ -25,7 +25,7 @@ export default function Footer() {
         
         </div>
         <div className="footer-img">
-         <img className='foot-img' src="https://www.planetware.com/wpimages/2020/01/india-in-pictures-beautiful-places-to-photograph-gateway-of-india-mumbai.jpg" alt="india-image" />
+         <img className='foot-img' src="https://www.planetware.com/wpimages/2020/01/india-in-pictures-beautiful-places-to-photograph-gateway-of-india-mumbai.jpg" alt='india-get'  />
         </div>
         <div className="footer-resv">
             <p>© Kuber E-Bikes 2021 All rights reserved.</p>
