@@ -16,7 +16,7 @@ export default function Footer() {
                 <li>About Us</li>
                 <li>Become a Dealer</li>
             </div>
-            <div className="touch">
+            <div id="model" className="touch">
                 <h3>Models</h3>
                 <li>Juniper</li>
                 <li>Festiva</li>
