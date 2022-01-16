@@ -24,7 +24,7 @@
     
     
 }
-.nav li{
+.nav li a{
     padding: 10px 0px 0px 0px;
     margin: 0px 25px;
     cursor: pointer;
@@ -33,7 +33,7 @@
     display: none;
     
 }
-.nav li:hover{
+.nav li a:hover{
     border-bottom: 3px solid rgb(59, 147, 247);
     transition: all 0.40s ease-in-out;
 }
