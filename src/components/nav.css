@@ -9,12 +9,12 @@
     position: fixed;
     width: 100vw;
     justify-content: space-between;
-    padding: 25px 50px;
+    padding: 24px 51px;
     font-size: 30px;
     font-family: 'Mukta', sans-serif;
-    box-shadow: 3px 0px 10px rgb(155, 152, 152);
+    box-shadow: 2px 0px 11px rgb(155, 152, 152);
     width: 100vw;
-   background-color: white;
+   background-color: pink;
 }
 .nav{
     display: flex;
@@ -25,7 +25,7 @@
     
 }
 .nav li a{
-    padding: 10px 0px 0px 0px;
+    padding: 11px 1px 0px 0px;
     margin: 0px 25px;
     cursor: pointer;
 }
@@ -35,6 +35,7 @@
 }
 .nav li a:hover{
     border-bottom: 3px solid rgb(59, 147, 247);
+    border-radius:2px;
     transition: all 0.40s ease-in-out;
 }
 
@@ -56,13 +57,13 @@
     .toggle{
         display: block;
         position: fixed;
-        left: 80vw;
+        left: 81vw;
         top: 4%;
        
 
     }
     .toggle div{
-        width: 40px;
+        width: 41px;
         height: 5px;  
         background-color: rgb(55, 137, 243); 
         margin: 5px; 
