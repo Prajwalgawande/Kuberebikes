@@ -25,7 +25,7 @@ export default function Navbar() {
         <div className='container'>
             <div className="brand">KUBER E-BIKES</div>
             {(toogle || screen>765 )&&(<ul className='nav'>
-                <li><a href="/"><HOME/a></li>
+            <li><a href="/">HOME</a></li>
                 <li><a href="#about">ABOUT</a></li>
                 <li><a href="#model">MODEL</a></li>
                 <li><a href="#dealer">BECOME A DEALER</a></li>
